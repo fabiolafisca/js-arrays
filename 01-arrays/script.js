@@ -53,3 +53,4 @@ console.log(teachersString);
 // e salva il risultato nella variabile isTeachersEmpty
 const isTeachersEmpty = teachers.length === 0;
 console.log(isTeachersEmpty);
+
